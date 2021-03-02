@@ -1,0 +1,13 @@
+.box1 {
+  width: 300px;
+  height: 300px;
+  /* ここの空白を赤に変える */
+  background-color: red;
+}
+.box2 {
+  width: 100px;
+  height: 100px;
+  background-color: blue;
+  /* 枠線を追加するよ */
+  border: 5px solid yellow;
+}
